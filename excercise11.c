@@ -44,4 +44,14 @@
  printf("another each: %c %c %c %c\n",
  another[0], another[1], another[2], another[3]);
 
- return 0;}
+ return 0;
+ }
+
+/* Extra credit
+1.For the first question the pointer was inncomplete so we got a warning.
+2. I used repl which does not have a debugger
+
+3. We can print everything at once, each character reverse
+
+4.Yes
+*
