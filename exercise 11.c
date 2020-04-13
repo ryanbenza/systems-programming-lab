@@ -45,3 +45,11 @@
  another[0], another[1], another[2], another[3]);
 
  return 0;
+
+  
+  /* Extra credit
+1.number 1 we get a warning because of the pointer being incompatible
+2.  used repl so i there was no debugger
+3. We can print everything at once, each character reverse
+4.Yes
+*/
