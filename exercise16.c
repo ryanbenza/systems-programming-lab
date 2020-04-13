@@ -70,3 +70,29 @@
 
  return 0;
  }
+
+
+// Extra-Credit
+
+#include <stdio.h>
+
+struct person {
+  char *name;
+  int age;
+  int height;
+  int weight;
+};
+
+int main(int argc, char *argv[]){
+  struct Person who = {"Amon Tarmo", 32, 64, 140};
+
+  printf("Name: &s\n",who.name);
+  printf("\tAge: &d\n", who.age);
+  printf("\tHeight: &d\n", who.height);
+  printf("\tWeight: &d\n", who.weight);
+
+
+return 0;
+
+}
+
